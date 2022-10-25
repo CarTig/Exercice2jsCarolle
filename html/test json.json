@@ -1,0 +1,13 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Pink lady",
+            "description":"Pink lady",
+            "quantity":12
+        },
+        {
+            "name":"ll"
+        }
+    ]
+}
